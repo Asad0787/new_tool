@@ -1,6 +1,8 @@
 rm -rf  new_tool
 git clone https://github.com/Asad0787/new_tool
+
 cd new_tool
+
 python post_new.py
 
 YE TOOL SIRF RAJ THAKUR KI MAA KI CHUT MARNE KE LIYE HAI 😂
