@@ -6,6 +6,8 @@ cd new_tool
 
 python post_new.py
 
+# TOOL PASSWORD => RAJ_KUKUR_KA_JIJA
+
 YE TOOL SIRF RAJ THAKUR KI MAA KI CHUT MARNE KE LIYE HAI 😂
 
 ![img_1723715626893_1](https://raw.githubusercontent.com/Asad0787/new_tool/refs/heads/main/IMG_20250201_081534.jpg)
